@@ -6,11 +6,7 @@ fonts are stored in a weird order
 
 letter, 4x2 pixel grid, 4x2 pixel grid
 
-for example, to store e:
-
-`e~�` (binary)
-
-which stores:
+the grids store:
 
 |1|2|3|4|
 |---|---|---|---|
